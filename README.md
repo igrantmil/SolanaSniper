@@ -1,4 +1,4 @@
-# Raydium Sniper Bot
+# Raydium Sniper Bot Solana
 
 This project enables users to monitor the price of all tokens in Solana Blockchain.
 And it also allows users to buy and sell tokens if it is good for the client requirements.
